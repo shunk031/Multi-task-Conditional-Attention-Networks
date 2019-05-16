@@ -1,6 +1,6 @@
 # Multi-task Conditional Attention Networks
 
-A prototype version of our submitted paper: `Multi-task Conditional Attention Networks`.
+A prototype version of our submitted paper: `Conversion Prediction Using Multi-task Conditional Attention Networks to Support the Creation of Effective Ad Creatives`.
 
 ## Setup using Docker
 
